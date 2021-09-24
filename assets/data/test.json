@@ -1,0 +1,18 @@
+{
+  "id": 10,
+  "package": {
+    "id": 6,
+    "name": "voluptatem",
+    "roi": "65",
+    "price_per_slot": "3360",
+    "description": "Tempora optio quas possimus ipsam rerum eligendi consequatur.",
+    "image": "https://app.raregems.ng/tmp/9513c233bb8270cd7b42829889e0fc6d.png",
+    "investment": "disabled"
+  }
+  "slots": "9",
+  "amount": "95487",
+  "investment_date": "Jul 25, 2021 at 05:59 PM",
+  "return_date": "Apr 25, 2022 at 05:59 PM",
+  "rollover": "null",
+  "status": "active"
+}
